@@ -1,0 +1,3 @@
+[submodule "github-dir"]
+	path = .github
+	url = git@github.com:benjaminjacobberg/github-dir.git
