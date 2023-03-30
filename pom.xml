@@ -13,7 +13,7 @@
         <maven.compiler.source>17</maven.compiler.source>
         <maven.compiler.target>17</maven.compiler.target>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <keycloak.version>20.0.3</keycloak.version>
+        <keycloak.version>21.0.2</keycloak.version>
         <pulsar.version>2.11.0</pulsar.version>
         <useTransitiveDependencies>false</useTransitiveDependencies>
         <useTransitiveFiltering>true</useTransitiveFiltering>
